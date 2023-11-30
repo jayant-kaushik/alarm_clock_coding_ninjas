@@ -4,4 +4,4 @@ You can replace the alarm sound by replacing the 'alarm.mp3' file with your desi
 You can stop the ringing alarm by using the switch button and delet the alarm by using the bin icon.
 You can find the repository here - https://github.com/jayant-kaushik/alarm_clock_coding_ninjas
 You can check the hosted project by clicking here - https://jayant-kaushik.github.io/alarm_clock_coding_ninjas/
-Also you can find the short tour of the project by clicking here - 
+Also you can find the short tour of the project by clicking here - https://youtu.be/ObtnwAwnbGs
